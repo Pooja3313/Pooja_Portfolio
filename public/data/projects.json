@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce MERN App",
+      "description": "Full-stack e-commerce application with user authentication, product management, shopping cart, and payment integration using Stripe.",
+      "techStack": ["React", "Node.js", "Express", "MongoDB", "Razorpay","React", "TypeScript", "Tailwind CSS"],
+     
+      "liveUrl": "https://shivamcharms.com/home",
+      "image": "assets/img/e-commerce.png"
+    },
+    {
+      "id": 2,
+      "title": "Pizza Ordering System",
+   "description": "Produced a pizza ordering e-commerce web application with a user-friendly interface for browsing the menu, adding items to the cart, and placing orders through a secure payment gateway.\nEstablished an admin dashboard with authentication for efficient order management and tracking.",
+
+      "techStack": ["React Js", "Node.js", "Express", "MongoDB", "Stripe API","JWT"],
+      "githubUrl": "https://github.com/Pooja3313/pizza_ordering_new",
+     
+      "image": "assets/img/pizza.png"
+    },
+    {
+      "id": 3,
+      "title": "Travel Management / Reimbursement",
+     "description": "Assembled a Travel Management System allowing employees to submit travel forms for HOD approval and manage trip details through the Travel Manager. Integrated a reimbursement process with real-time HOD status updates to ensure smooth and efficient claim handling. The system simplifies travel approvals and reimbursement, improving the overall employee experience.",
+
+      "techStack": ["React Js","React Hooks","HTML","CSS","Material UI"],
+      "githubUrl": "https://github.com/Pooja3313/Travel-Management",
+  
+      "image": "assets/img/Travel.png"
+    },
+    {
+      "id": 4,
+      "title": "Bookstore",
+      "description": "Developed a Bookstore Application with role-based login for buyers, sellers, and admins.\nEnabled users to browse, search, add, remove, and purchase books online through a seamless e-commerce experience.\nImplemented features like book management, cart functionality, and a secure checkout process to enhance user engagement and streamline transactions.",
+      "techStack": ["React js", "HTML", "CSS", "JavaScript", "API Integration"],
+      "githubUrl": "https://github.com/Pooja3313/book_pooja",
+    
+      "image": "assets/img/bookstore.png"
+    }
+  ]
+}
