@@ -35,6 +35,7 @@
       "description": "Developed a Bookstore Application with role-based login for buyers, sellers, and admins.\nEnabled users to browse, search, add, remove, and purchase books online through a seamless e-commerce experience.\nImplemented features like book management, cart functionality, and a secure checkout process to enhance user engagement and streamline transactions.",
       "techStack": ["React js", "HTML", "CSS", "JavaScript", "API Integration"],
       "githubUrl": "https://github.com/Pooja3313/book_pooja",
+      "liveUrl": "https://bookstore-pooja.vercel.app",
     
       "image": "assets/img/bookstore.png"
     }
